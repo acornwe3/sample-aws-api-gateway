@@ -2,6 +2,6 @@
 
 Makes a sample API gateway with Python lambda
 
-terraform init /
+terraform init \
 terraform plan /
 terraform apply 
