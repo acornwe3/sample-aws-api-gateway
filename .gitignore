@@ -2,3 +2,7 @@ infrastructure/*.tfstate
 infrastructure/*.backup
 infrastructure/.terraform
 infrastructure/.terraform/*
+*.tfstate
+*.backup
+.terraform
+.terraform/*
